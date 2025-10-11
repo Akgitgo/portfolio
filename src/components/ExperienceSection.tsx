@@ -126,7 +126,7 @@ export default function ExperienceSection() {
               <span className="gradient-text">my journey?</span>
             </h3>
             <p className="text-text-secondary text-lg lg:text-xl mb-10 leading-relaxed">
-              Let's discuss how my experience can help bring your ideas to life.
+              Let&apos;s discuss how my experience can help bring your ideas to life.
             </p>
             <a
               href="/contact"

@@ -41,7 +41,7 @@ export default function ProjectsSection() {
             Featured <span className="gradient-text">Projects</span>
           </h2>
           <p className="text-text-secondary text-lg lg:text-xl max-w-4xl mx-auto leading-relaxed">
-            A showcase of innovative solutions I've built using modern technologies
+                    A showcase of innovative solutions I&apos;ve built using modern technologies
           </p>
         </motion.div>
 

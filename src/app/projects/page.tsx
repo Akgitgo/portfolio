@@ -110,7 +110,7 @@ export default function ProjectsPage() {
               Like what you see?
             </h2>
             <p className="text-text-secondary text-lg mb-8 max-w-2xl mx-auto leading-relaxed">
-              Let's collaborate and build something amazing together.
+              Let&apos;s collaborate and build something amazing together.
             </p>
             <a
               href="/contact"

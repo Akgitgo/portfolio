@@ -76,7 +76,7 @@ export default function Footer() {
             className="space-y-4"
           >
             <h4 className="text-lg font-semibold text-text-primary">
-              Let's Connect
+              Let&apos;s Connect
             </h4>
             <div className="flex gap-4">
               <a

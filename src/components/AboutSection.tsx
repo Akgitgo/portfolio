@@ -51,7 +51,7 @@ export default function AboutSection() {
             <span className="gradient-text block mt-2">Code & Innovation</span>
           </h2>
           <p className="text-text-secondary text-lg lg:text-xl max-w-4xl mx-auto leading-relaxed">
-            I'm Arya Kulkarni — a passionate developer crafting intelligent systems
+            I&apos;m Arya Kulkarni — a passionate developer crafting intelligent systems
             that connect data, design, and innovation. My work spans across full-stack development, cloud solutions, and modern web technologies.
           </p>
         </motion.div>
@@ -208,7 +208,7 @@ export default function AboutSection() {
               <span className="gradient-text block mt-2">amazing together?</span>
             </h3>
             <p className="text-text-secondary text-lg lg:text-xl mb-10 leading-relaxed">
-              Let's turn your ideas into reality with modern technology and innovation. 🚀
+              Let&apos;s turn your ideas into reality with modern technology and innovation. 🚀
             </p>
             <div className="flex flex-wrap gap-4 justify-center">
               <a
@@ -221,7 +221,7 @@ export default function AboutSection() {
                 href="mailto:kulkarniarya37@gmail.com"
                 className="btn-secondary text-base sm:text-lg px-8 py-4"
               >
-                Let's Talk
+                Let&apos;s Talk
               </a>
             </div>
           </div>

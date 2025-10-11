@@ -25,7 +25,7 @@ export default function ContactPage() {
               <h3 className="text-4xl lg:text-5xl font-bold gradient-text mb-6">
                 Drop me a message anytime 💌
               </h3>
-              <p className="text-text-secondary text-lg mb-10">I'd love to hear from you!</p>
+              <p className="text-text-secondary text-lg mb-10">I&apos;d love to hear from you!</p>
 
               <div className="space-y-6 mb-10">
                 <div className="flex items-center gap-4 justify-center lg:justify-start">
@@ -104,7 +104,7 @@ export default function ContactPage() {
         transition={{ delay: 0.4 }}
       >
         <h2 className="text-3xl lg:text-4xl font-bold mb-4">
-          Have an idea worth building? <span className="gradient-text">Let's make it real.</span>
+          Have an idea worth building? <span className="gradient-text">Let&apos;s make it real.</span>
         </h2>
         <div className="flex flex-wrap gap-4 justify-center mt-8">
           <a href={personalInfo.social.email} className="btn-secondary">

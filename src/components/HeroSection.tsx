@@ -83,7 +83,7 @@ export default function HeroSection() {
                 marginBottom: '0.5rem'
               }}
             >
-              <span className="text-text-primary block" style={{ marginBottom: '0.125rem' }}>Hi, I'm</span>
+              <span className="text-text-primary block" style={{ marginBottom: '0.125rem' }}>Hi, I&apos;m</span>
               <span className="gradient-text block">{personalInfo.name}</span>
             </motion.h1>
 
